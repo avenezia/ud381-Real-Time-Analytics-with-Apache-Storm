@@ -17,10 +17,6 @@ import backtype.storm.utils.Utils;
 import java.util.Map;
 
 /**
- * This is a basic example of a Storm topology.
- */
-
-/**
  * This is a basic example of a storm topology.
  *
  * This topology demonstrates how to add three exclamation marks '!!!'

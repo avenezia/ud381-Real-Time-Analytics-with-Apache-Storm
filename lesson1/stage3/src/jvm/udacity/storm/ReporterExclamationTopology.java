@@ -22,10 +22,6 @@ import com.lambdaworks.redis.RedisConnection;
 import udacity.storm.spout.RandomSentenceSpout;
 
 /**
- * This is a basic example of a Storm topology.
- */
-
-/**
  * This is a basic example of a storm topology.
  *
  * This topology demonstrates how to add three exclamation marks '!!!'
